@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{1D63851A-2F70-4ED6-BB3C-DD9BB7ECDA1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dornea_Sergiu_Lab11", "Dornea_Sergiu_Lab11\Dornea_Sergiu_Lab11.csproj", "{023D8E78-F0E3-4BC7-A31B-E2FBFCB79ACE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{1D63851A-2F70-4ED6-BB3C-DD9BB7ECDA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D63851A-2F70-4ED6-BB3C-DD9BB7ECDA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D63851A-2F70-4ED6-BB3C-DD9BB7ECDA1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{023D8E78-F0E3-4BC7-A31B-E2FBFCB79ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023D8E78-F0E3-4BC7-A31B-E2FBFCB79ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023D8E78-F0E3-4BC7-A31B-E2FBFCB79ACE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{023D8E78-F0E3-4BC7-A31B-E2FBFCB79ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023D8E78-F0E3-4BC7-A31B-E2FBFCB79ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{023D8E78-F0E3-4BC7-A31B-E2FBFCB79ACE}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
